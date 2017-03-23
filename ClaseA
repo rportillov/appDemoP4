@@ -1,9 +1,11 @@
 public class ClaseA {
-private int x;
+private double x;
+private String;
 
 public class ClaseA () {
 
-x=0;
+x=0.0;
+y="";
 
                     }
 
